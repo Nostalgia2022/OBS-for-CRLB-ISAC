@@ -1,5 +1,5 @@
-# Optimal Beamforming Structure and Efficient Designs for CRLB Optimization in ISAC Systems
-Simulation code for our paper: "Optimal Beamforming Structure and Efficient Designs for CRLB Optimization in ISAC Systems". 
+# Optimal ISAC Beamforming Structure and Efficient Algorithms for Sum Rate and CRLB Balancing
+Simulation code for our paper: "Optimal ISAC Beamforming Structure and Efficient Algorithms for Sum Rate and CRLB Balancing", which has been submitted to IEEE journal on selected areas in communications.
 
 # Content of Code Package
 Here is a detailed description of the package:
